@@ -7,7 +7,7 @@ This repository contains a collection of Java programs and resources, organized 
 - **src/**  
   Main source directory containing all Java code.
   - **Java/**  
-    Likely includes materials, examples, or assignments from Pavan Sir’s Java lessons.
+    Likely includes materials, examples, or assignments.
   - **OOPs/**  
     Programs and examples focused on Object-Oriented Programming concepts such as classes, inheritance, polymorphism, encapsulation, and abstraction.
   - **SCANNER/**  
