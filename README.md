@@ -5,7 +5,7 @@ This repository contains a collection of Java programs and resources, organized 
 ## Repository Structure
 
 - **src/**  
-  Main source directory containing all Java basic code.
+  Main source directory containing all Java code.
   - **Java/**  
     Likely includes materials, examples, or assignments.
   - **OOPs/**  
